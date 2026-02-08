@@ -1,0 +1,1 @@
+select * from DBT_SCH1.EMPLOYEES 
